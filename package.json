@@ -1,0 +1,16 @@
+{
+  "name": "fire-smm-admin-bot",
+  "version": "1.0.0",
+  "description": "Fire SMM - Admin Telegram Bot (notifications + mini app launch + API tools)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
